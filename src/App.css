@@ -1,0 +1,32 @@
+
+*{
+    font-weight: 500;
+}
+
+a{
+    color:black;
+    text-decoration: none;;
+}
+
+a:hover{
+    color:black;
+    text-decoration: none;
+}
+
+.link{ 
+    color:#0016bd;
+    transition: color 0.2s ease-in-out;
+}
+
+.link:hover{
+    color:#ff8000;
+}
+
+.link:hover *.link{
+    color:#ff8000;
+}
+
+.rating i{
+    color:#e8ba3e !important;
+}
+
