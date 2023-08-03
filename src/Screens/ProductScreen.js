@@ -21,7 +21,7 @@ export default function ProductScreen() {
      
    useEffect(() => {
     getProduct()
-
+    
    },[])
 
   
